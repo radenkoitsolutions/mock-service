@@ -60,9 +60,9 @@ public class MockController {
 
 Example Request:
 
-GET /get-response?fileName=example.json
+GET /api/rest/?file=orders.json
 
-If the example.json file exists in the specified directory, its content will be returned as a JSON response. If the file is not found, an exception will be thrown.
+If the orders.json file exists in the specified directory, its content will be returned as a JSON response. If the file is not found, an exception will be thrown.
 Method Workflow
 
     getResponse(String fileName):
