@@ -1,0 +1,23 @@
+[
+  {
+    "id": 101,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 899.99,
+    "available": true
+  },
+  {
+    "id": 102,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 699.99,
+    "available": false
+  },
+  {
+    "id": 103,
+    "name": "Headphones",
+    "category": "Accessories",
+    "price": 49.99,
+    "available": true
+  }
+]

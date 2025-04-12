@@ -1,0 +1,32 @@
+{
+  "company": {
+    "name": "Tech Center",
+    "location": "Sofia",
+    "employees": [
+      {
+        "id": 1,
+        "name": "Ivan Ivanov",
+        "role": "Developer",
+        "email": "ivan@example.com"
+      },
+      {
+        "id": 2,
+        "name": "Maria Georgieva",
+        "role": "Analyst",
+        "email": "maria@example.com"
+      }
+    ],
+    "departments": [
+      {
+        "id": 1,
+        "name": "Development",
+        "employees_count": 10
+      },
+      {
+        "id": 2,
+        "name": "Human Resources",
+        "employees_count": 3
+      }
+    ]
+  }
+}
